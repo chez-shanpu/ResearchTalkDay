@@ -1,13 +1,13 @@
 ---
 name: Talk Content template
 about: Details of today's talking
-title: 第n回 2019/xx/xx
+title: 第n回 2019/xx/xx Fri
 labels: ''
 assignees: ''
 
 ---
 
-- 日時：2019/xx/xx　17:00~18:00
+- 日時：2019/xx/xx Fri　17:00~18:00
 - 場所：8-302
 
 コメントに発表したい内容を簡単に書いてください．
