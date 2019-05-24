@@ -7,7 +7,7 @@
 - 途中参加・途中退席は自由
 - 他人を攻撃しない
 
-開催日時や場所は，[issue](https://github.com/StudioAquatan/TechTalkTuesday/issues)に掲載しています．
+開催日時や場所は，[issue](https://github.com/chez-shanpu/ResearchTalkDay/issues)に掲載しています．
 また，当日これをしゃべりたい，これをみんなで共有したいというネタがある方はissueのコメントに書いてください．
 
 Research Talk Dayは次の集まりを参考にして運営しています．
